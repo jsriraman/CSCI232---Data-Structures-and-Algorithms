@@ -1,0 +1,2 @@
+E:\CSCI 232\BinarySearch\BinarySearchTree\x64\Debug\BinarySearchTree.exe
+D:\CSCI 232\BinarySearch\BinarySearchTree\x64\Debug\BinarySearchTree.exe
